@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\user\Downloads\testunit\Grid.h(226,60): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\user\Downloads\testunit\Grid.h(226,60): warning C4244:         with
+C:\Users\user\Downloads\testunit\Grid.h(226,60): warning C4244:         [
+C:\Users\user\Downloads\testunit\Grid.h(226,60): warning C4244:             T=float
+C:\Users\user\Downloads\testunit\Grid.h(226,60): warning C4244:         ]
+  (compiler le fichier source '/test.cpp')
+  
+C:\Users\user\Downloads\testunit\Grid.h(226,50): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+C:\Users\user\Downloads\testunit\Grid.h(226,50): warning C4244:         with
+C:\Users\user\Downloads\testunit\Grid.h(226,50): warning C4244:         [
+C:\Users\user\Downloads\testunit\Grid.h(226,50): warning C4244:             T=float
+C:\Users\user\Downloads\testunit\Grid.h(226,50): warning C4244:         ]
+  (compiler le fichier source '/test.cpp')
+  
+C:\Users\user\Downloads\testunit\Grid.h(227,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '/test.cpp')
+  
+C:\Users\user\Downloads\testunit\Grid.h(227,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source '/test.cpp')
+  
+  testunit.vcxproj -> C:\Users\user\Downloads\testunit\Debug\testunit.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

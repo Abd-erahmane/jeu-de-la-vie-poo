@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\testunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Cellule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Cellule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\SimulationInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:SimulationInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|C:\\Users\\user\\Downloads\\testunit\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0668DD1-AE5B-47BC-9786-5B1697BDA42C}|testunit.vcxproj|solutionrelative:Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Button.h",
+              "RelativeDocumentMoniker": "Button.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Button.h",
+              "RelativeToolTip": "Button.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T18:10:44.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T16:30:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Grid.h",
+              "RelativeDocumentMoniker": "Grid.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Grid.h",
+              "RelativeToolTip": "Grid.h",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T17:41:01.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graphics.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Graphics.h",
+              "RelativeDocumentMoniker": "Graphics.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Graphics.h",
+              "RelativeToolTip": "Graphics.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T18:11:19.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T18:06:05.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Console.h",
+              "RelativeDocumentMoniker": "Console.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Console.h",
+              "RelativeToolTip": "Console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T17:50:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cellule.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\Cellule.h",
+              "RelativeDocumentMoniker": "Cellule.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\Cellule.h",
+              "RelativeToolTip": "Cellule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T17:50:35.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimulationInterface.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\testunit\\SimulationInterface.h",
+              "RelativeDocumentMoniker": "SimulationInterface.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\testunit\\SimulationInterface.h",
+              "RelativeToolTip": "SimulationInterface.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T18:00:31.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
