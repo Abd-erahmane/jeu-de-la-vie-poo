@@ -70,25 +70,7 @@ makefile
 Copier le code
 jeu-de-la-vie-poo/
 Projet_Simulation/
-├── components/
-
-│   ├── Cellule.h
-│   ├── Cellule.cpp
-│   ├── Grid.h
-│   └── Grid.cpp
-├── interfaces/
-│   ├── Console.h
-│   ├── Console.cpp
-│   ├── Graphics.h
-│   ├── Graphics.cpp
-│   └── SimulationInterface.h
-├── services/
-│   ├── Game.h
-│   └── Game.cpp
-├── resources/
-│   └── arial.ttf
-├── main.cpp
-└── ├── tests/             
+![Uploading Sans nom (1).jpg…]()
 
 Tests
 Tests Unitaires
