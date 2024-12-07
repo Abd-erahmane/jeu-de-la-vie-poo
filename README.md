@@ -70,7 +70,9 @@ makefile
 Copier le code
 jeu-de-la-vie-poo/
 Projet_Simulation/
-![Uploading Sans nom (1).jpg…]()
+![Sans nom (1)](https://github.com/user-attachments/assets/d8c5c938-b7ea-49fa-a95e-1f290f0d03a1)
+
+
 
 Tests
 Tests Unitaires
