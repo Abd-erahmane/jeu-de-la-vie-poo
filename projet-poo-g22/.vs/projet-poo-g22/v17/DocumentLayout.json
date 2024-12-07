@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\SimulationInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:SimulationInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Cellule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Cellule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E985A9B-EA77-4153-AB6C-5E6224262BF5}|projet-poo-g22.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graphics.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.cpp",
+              "RelativeDocumentMoniker": "Graphics.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.cpp",
+              "RelativeToolTip": "Graphics.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T15:16:41.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.cpp",
+              "RelativeDocumentMoniker": "Button.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.cpp",
+              "RelativeToolTip": "Button.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T15:04:42.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Graphics.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.h",
+              "RelativeDocumentMoniker": "Graphics.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Graphics.h",
+              "RelativeToolTip": "Graphics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.cpp",
+              "RelativeDocumentMoniker": "Grid.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.cpp",
+              "RelativeToolTip": "Grid.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T14:49:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.h",
+              "RelativeDocumentMoniker": "Grid.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Grid.h",
+              "RelativeToolTip": "Grid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:29.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T14:49:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulationInterface.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\SimulationInterface.h",
+              "RelativeDocumentMoniker": "SimulationInterface.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\SimulationInterface.h",
+              "RelativeToolTip": "SimulationInterface.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.h",
+              "RelativeDocumentMoniker": "Button.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Button.h",
+              "RelativeToolTip": "Button.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cellule.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Cellule.h",
+              "RelativeDocumentMoniker": "Cellule.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Cellule.h",
+              "RelativeToolTip": "Cellule.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Console.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.cpp",
+              "RelativeDocumentMoniker": "Console.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.cpp",
+              "RelativeToolTip": "Console.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T14:49:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.h",
+              "RelativeDocumentMoniker": "Console.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Console.h",
+              "RelativeToolTip": "Console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-07T14:49:18.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\C==\\projet-poo-g22\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T14:49:16.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
