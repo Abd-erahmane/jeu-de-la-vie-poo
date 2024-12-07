@@ -1,4 +1,6 @@
-Jeu de la Vie - Projet POO
+## Jeu de la Vie
+![maxresdefault](https://github.com/user-attachments/assets/7ffce74a-a869-41fb-890c-7b46ef3d49d5)
+
 Table des Matières
 Description
 Fonctionnalités
