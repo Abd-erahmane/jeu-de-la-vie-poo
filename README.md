@@ -1,4 +1,6 @@
 ## Jeu de la Vie
+#BAIFOUH Abderrahmqne
+#ROUBEHIEFIASSA Nourreddin
 ![maxresdefault](https://github.com/user-attachments/assets/7ffce74a-a869-41fb-890c-7b46ef3d49d5)
 
 Table des Matières
